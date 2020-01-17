@@ -1,0 +1,97 @@
+﻿@{
+    /**/
+
+    ViewBag.Title = "Home Page";
+}
+
+@if (User.IsInRole("Admin"))
+{
+    <div class="jumbotron">
+        <h1>Business Contacts</h1>
+        <p class="lead">This application tracks all of our business contacts.</p>
+        <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <h2>View Contacts</h2>
+            <p>View all business contacts.</p>
+            <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <h2>Create Contact</h2>
+            <p>Add a new business contact.</p>
+            <p>@Html.ActionLink("Create Contact", "CreateContact", "Home")</p>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <h2>View Users</h2>
+            <p>View All Users.</p>
+            <p>@Html.ActionLink("Show Users", "ViewUsers", "Home")</p>
+
+        </div>
+
+    </div>
+}
+else if (User.IsInRole("Manager"))
+{
+    <div class="jumbotron">
+        <h1>Business Contacts</h1>
+        <p class="lead">This application tracks all of our business contacts.</p>
+        <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <h2>View Contacts</h2>
+            <p>View all business contacts.</p>
+            <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <h2>Create Contact</h2>
+            <p>Add a new business contact.</p>
+            <p>@Html.ActionLink("Create Contact", "CreateContact", "Home")</p>
+
+        </div>
+    </div>
+
+    
+}
+else if (User.IsInRole("User"))
+{
+    <div class="jumbotron">
+        <h1>Business Contacts</h1>
+        <p class="lead">This application tracks all of our business contacts.</p>
+        <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <h2>View Contacts</h2>
+            <p>View all business contacts.</p>
+            <p>@Html.ActionLink("View Contacts", "ViewContacts", "Home")</p>
+
+        </div>
+    </div>
+}
+else
+{
+    <div class="jumbotron">
+        <h1>Not verified or logged in?</h1>
+        <p class="lead">Please log in or contact a system administrator to verify your user account.</p>
+    </div>
+}

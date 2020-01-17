@@ -1,0 +1,9 @@
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\DataLibrary\obj\Debug\DataLibrary.pdb

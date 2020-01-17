@@ -1,0 +1,10 @@
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\bin\Debug\BusinessContactsDB.dacpac
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\bin\Debug\BusinessContactsDB.dll
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\bin\Debug\BusinessContactsDB.pdb
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\Model.xml
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\refactor.xml
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\postdeploy.sql
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\predeploy.sql
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\BusinessContactsDB.dll
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\BusinessContactsDB.pdb
+C:\Users\Cody\Desktop\Practice\ASP.NET Projects\BusinessContacts\BusinessContactsDB\obj\Debug\BusinessContactsDB.sqlprojAssemblyReference.cache
